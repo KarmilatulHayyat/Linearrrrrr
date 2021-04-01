@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Linearrrrrr</string>
+    <string name="var1">Ini Pesan</string>
+    <string name="bSignIn">Sign-In</string>
+    <string name="tData">Data Anda</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="txEmail">Ini hasil Email</string>
+    <string name="txPassword">Ini hasil Password</string>
+    <string name="label2">Login Berhasik</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="ldaftar">Daftar</string>
+    <string name="edNama">Masukkan Nama</string>
+    <string name="edEmail">Masukkan Email</string>
+    <string name="edpassword">Masukkan Password</string>
+    <string name="edRepass">Masukkan Password Kembali</string>
+    <string name="edAlamat">Masukkan Alamat</string>
+
+</resources>
